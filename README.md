@@ -19,4 +19,4 @@ institution, the corresponding country and participants nationality (corrected t
 
         conda env create -f ECSS_Paper_environment.yml
 
--Excecute the notebook with `source activate ECSS_Paper; jupyter-notebook ECSS_Paper.ipynb` and run all cells to reprocuce the figure.
+-Excecute the notebook with `source activate ECSS_Paper; jupyter-notebook ECSS_Paper.ipynb` and run all cells to reproduce the figure.
