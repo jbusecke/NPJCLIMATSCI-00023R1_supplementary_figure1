@@ -2,6 +2,7 @@ name: ECSS_Paper
 channels:
   - conda-forge
 dependencies:
+  - python=3.6
   - matplotlib=2.0.2
   - pandas=0.20.3
   - xlrd=1.1.0
