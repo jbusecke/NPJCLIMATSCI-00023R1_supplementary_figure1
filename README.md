@@ -6,7 +6,7 @@
 Minor edits to the figure legend were done using [Adobe Illustrator](https://www.adobe.com/products/illustrator.html?sdid=KKQML&mv=search&s_kwcid=AL!3085!3!196928852571!e!!!!adobe%20illustrator&ef_id=WbfnlAAAAPgZDQuJ:20170915142601:s)
 - `Country_loc.xlsx` Excel spreadsheet with circle locations for each country
 - `ECSS_participants_anonymized.xlsx` Excel spreadsheet with participants
-institution, the corresponding country and participants nationality (corrected to have consistent)
+institution, the corresponding country and participants nationality.
 - `ECSS_Paper_environment.yml` - environment file to create an anaconda python enviroment.
 
 ## Instructions
